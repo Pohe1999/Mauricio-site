@@ -28,7 +28,7 @@ const Skills = () => {
           textColor: 'text-gray-200',
       },
       {
-          title: 'JavaSript',
+          title: 'JavaScript',
           percent: '90',
           color: 'bg-yellow-300',
           textColor: 'text-slate-900',
