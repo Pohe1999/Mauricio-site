@@ -9,7 +9,7 @@ const Contact = () => {
                 <p className='text-center text-4xl sm:text-6xl font-thin text-gray-100'>Contact</p>
                 <p className='text-gray-100 py-4 font-thin sm:text-center'>// Submit the form bellow to shoot me an email - mapogu99@gmail.com</p>
                 <div className='flex justify-center font-thin text-gray-100 items-center'>
-                    <p className='pe-2'>Or WharsApp me here: </p> <span className=' rounded-full px-1 py-1'><SendMessage /></span>
+                    <p className='pe-2'>Or WhatsApp me here: </p> <span className=' rounded-full px-1 py-1'><SendMessage /></span>
                 </div>
             </div>
             <input className='bg-[#e0e8ff] p-2 rounded-lg' type="text" placeholder='Name' name="name" id="" />
