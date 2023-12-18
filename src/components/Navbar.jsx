@@ -12,7 +12,7 @@ const Navbar = () => {
     <div className='fixed z-50 w-full h-[65px] flex font-thin justify-between items-center sm:ps-20 sm:pe-20 px-4 bg-blue-800'>
       <div className='px-3 sm:text-2xl text-xl border-2 border-gray-200 rounded-lg py-2 text-gray-100'>
         <a href="/" className='font-thin'>
-            Mauricio Portillo
+            <img className='w-[200px] h-[40px]' src="/mauricio-logo.png" alt="site-logo" />
         </a>
       </div>
 
