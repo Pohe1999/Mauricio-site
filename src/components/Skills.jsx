@@ -1,6 +1,6 @@
 import React from 'react';
 import Slider from 'react-slick';
-import { FaArrowsUpDown } from "react-icons/fa6";
+import { GoArrowBoth } from "react-icons/go";
 
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
@@ -88,7 +88,7 @@ const Skills = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     vertical: true,
-    verticalSwiping: true,
+    verticalSwiping: false,
     swipeToSlide: true,
     adaptiveHeight: true,
     arrows: false, // Eliminar las flechas de navegación
@@ -116,7 +116,7 @@ const Skills = () => {
         </section>
         <span className='sm:hidden font-thin text-center'>Swipe to see more</span>
         <div className='pt-2 text-xl'>
-          <FaArrowsUpDown  className='animate-ping'/>
+          <GoArrowBoth  className='animate-ping'/>
         </div>
       </div>
     );
