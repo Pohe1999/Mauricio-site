@@ -10,9 +10,9 @@ const Navbar = () => {
 
   return (
     <div className='fixed z-50 w-full h-[65px] flex font-thin justify-between items-center sm:ps-20 sm:pe-20 px-4 bg-blue-800'>
-      <div className='sm:text-2xl text-xl rounded-lg py-2 text-gray-100'>
-        <a href="/" className='font-thin'>
-            <img className='w-[200px] h-[40px]' src="/Mauricio.png" alt="site-logo" />
+      <div className='rounded-lg py-2 text-gray-100'>
+        <a href="/" className='text-2xl font-roboto-condensed border-b-2 border-blue-500'>
+          Mauricio <span className='text-pink-600 text-2xl'>Portillo</span>
         </a>
       </div>
 
