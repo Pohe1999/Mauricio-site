@@ -19,9 +19,9 @@ const Home = () => {
               "Bienvenido . . ."
             ]} />
             </h2>
-            <p className='text-gray-200 py-4 max-w-[700px] font-extralight text-lg px-9 text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta,
-               tenetur! Expedita quasi magni sunt consectetur doloribus dign
-               issimos repellendus eum, deleniti nostrum in impedit itaque dolore officia omnis dolorem quisquam a.
+            <p className='text-gray-200 py-4 max-w-[700px] font-extralight text-lg px-9 text-justify'>
+              Welcome to my personal portfolio where you'll get to know a bit about me. Feel free to explore
+              some of my skills and personal as well as professional projects. I hope you find them appealing.
             </p>
             <div className='px-9 flex justify-center sm:justify-start'>
                   <Link to="projects" smooth={true} duration={2500}>
