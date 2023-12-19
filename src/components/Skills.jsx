@@ -114,7 +114,7 @@ const Skills = () => {
             ))}
           </Slider>
         </section>
-        <span className='sm:hidden font-thin text-center'>Swipe to see more</span>
+        <span className='sm:hidden font-thin text-center'>Swipe</span>
         <div className='pt-2 text-xl'>
           <GoArrowBoth  className='animate-ping'/>
         </div>
