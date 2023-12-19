@@ -31,8 +31,8 @@ const About = () => {
         </div>
         <div className="sm:w-1/2 md:order-2 md:pl-8">
           <p className="text-xl text-gray-300 px-4 font-thin text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla mauris non mi hendrerit, ac finibus lorem aliquet. Integer at est ut turpis fermentum auctor non id libero. <br /> <br />
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla mauris non mi hendrerit, ac finibus lorem aliquet. Integer at est ut turpis fermentum auctor non id libero.
+            Let me introduce myself. My name is Mauricio Portillo Gutierrez, and I'm 24 years old. I was born in Tecamac, State of Mexico, on May 21, 1999, and I've spent my entire life in this town, living peacefully and happily with my family. I have a pet, a Saint Bernard named Dalila, and also Bruce, a 14-year-old Schnauzer who still keeps us company. <br /> <br />
+            Regarding my education, I completed university, earning a degree in Systems Engineering. After graduating, I continued my studies independently, seeking online courses and tech documentation. That's how I keep up with my ongoing self-education and learning in web development.
           </p>
         </div>
       </div>
