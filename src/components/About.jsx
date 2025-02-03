@@ -24,7 +24,7 @@ const About = () => {
       <div className="flex flex-col md:flex-row items-center justify-center md:justify-between max-w-4xl mx-auto my-8">
         <div name="imagenes" className="md:w-1/2 md:order-1 mb-4 md:mb-0">
           <img
-            className="sm:w-full sm:h-full w-[300px] h-[450px] rounded-lg opacity-90 hover:opacity-100 transition-opacity duration-700 cursor-pointer"
+            className="sm:w-full sm:h-full w-[300px] h-[425px] rounded-lg opacity-90 hover:opacity-100 transition-opacity duration-700 cursor-pointer"
             src={images[currentImage]}
             alt="Imagen sobre el tema del texto"
           />
