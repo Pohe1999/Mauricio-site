@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react'
 const About = () => {
   const [currentImage, setCurrentImage] = useState(0)
   const images = [
-    '/profile-photo-1.jpg', // Ruta de la primera imagen
+    '/foto-senado-1.jpg', // Ruta de la primera imagen
   ]
 
   useEffect(() => {
